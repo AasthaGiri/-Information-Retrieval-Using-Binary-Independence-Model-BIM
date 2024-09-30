@@ -1,0 +1,120 @@
+Patient,Hipreplacement.txt,1
+Patient,Spinal Infusion.txt,1
+Patient,Breast Augmentation.txt,1
+Patient,Coronary Stent Placement.txt,1
+Patient,Gastric Bypass Surgery.txt,0
+Patient,Liver Transplant.txt,0
+Patient,ACL Reconstruction.txt,0
+Patient,Spinal Fusion Surgery.txt,1
+Patient,Mastectomy.txt,0
+Patient,Hernia Repair.txt,0
+Patient,Pacemaker Implantation.txt,0
+Patient,Thyroidectomy.txt,0
+Patient,Prostatectomy.txt,0
+Patient,Cesarean Section.txt,0
+Patient,Gallbladder Removal.txt,0
+Patient,Post-hysterectomy.txt,1
+Patient,Cataract Surgery.txt,1
+Patient,Appendectomy,.txt,1
+Patient, Knee Replacement Surgery.txt,0
+Patient, Heart Bypass Surgery.txt,1
+Surgery,Hipreplacement.txt,1
+Surgery,Spinal Infusion.txt,1
+Surgery,Breast Augmentation.txt,1
+Surgery,Coronary Stent Placement.txt,0
+Surgery,Gastric Bypass Surgery.txt,0
+Surgery,Liver Transplant.txt,1
+Surgery,ACL Reconstruction.txt,1
+Surgery,Spinal Fusion Surgery.txt,1
+Surgery,Mastectomy.txt,0
+Surgery,Hernia Repair.txt,0
+Surgery,Pacemaker Implantation.txt,1
+Surgery,Thyroidectomy.txt,1
+Surgery,Prostatectomy.txt,1
+Surgery,Cesarean Section.txt,1
+Surgery,Gallbladder Removal.txt,1
+Surgery,Post-hysterectomy.txt,0
+Surgery,Cataract Surgery.txt,0
+Surgery,Appendectomy,.txt,0
+Surgery, Knee Replacement Surgery.txt,0
+Surgery, Heart Bypass Surgery.txt,1
+Complication,Hipreplacement.txt,0
+Complication,Spinal Infusion.txt,1
+Complication,Breast Augmentation.txt,0
+Complication,Coronary Stent Placement.txt,1
+Complication,Gastric Bypass Surgery.txt,1
+Complication,Liver Transplant.txt,0
+Complication,ACL Reconstruction.txt,0
+Complication,Spinal Fusion Surgery.txt,0
+Complication,Mastectomy.txt,1
+Complication,Hernia Repair.txt,1
+Complication,Pacemaker Implantation.txt,1
+Complication,Thyroidectomy.txt,0
+Complication,Prostatectomy.txt,0
+Complication,Cesarean Section.txt,0
+Complication,Gallbladder Removal.txt,1
+Complication,Post-hysterectomy.txt,1
+Complication,Cataract Surgery.txt,0
+Complication,Appendectomy,.txt,0
+Complication, Knee Replacement Surgery.txt,0
+Complication, Heart Bypass Surgery.txt,0
+Treatment,Hipreplacement.txt,0
+Treatment,Spinal Infusion.txt,0
+Treatment,Breast Augmentation.txt,0
+Treatment,Coronary Stent Placement.txt,0
+Treatment,Gastric Bypass Surgery.txt,0
+Treatment,Liver Transplant.txt,1
+Treatment,ACL Reconstruction.txt,1
+Treatment,Spinal Fusion Surgery.txt,0
+Treatment,Mastectomy.txt,0
+Treatment,Hernia Repair.txt,0
+Treatment,Pacemaker Implantation.txt,0
+Treatment,Thyroidectomy.txt,1
+Treatment,Prostatectomy.txt,1
+Treatment,Cesarean Section.txt,1
+Treatment,Gallbladder Removal.txt,1
+Treatment,Post-hysterectomy.txt,0
+Treatment,Cataract Surgery.txt,1
+Treatment,Appendectomy,.txt,1
+Treatment, Knee Replacement Surgery.txt,1
+Treatment, Heart Bypass Surgery.txt,0
+Outcome,Hipreplacement.txt,1
+Outcome,Spinal Infusion.txt,0
+Outcome,Breast Augmentation.txt,0
+Outcome,Coronary Stent Placement.txt,0
+Outcome,Gastric Bypass Surgery.txt,0
+Outcome,Liver Transplant.txt,1
+Outcome,ACL Reconstruction.txt,0
+Outcome,Spinal Fusion Surgery.txt,1
+Outcome,Mastectomy.txt,1
+Outcome,Hernia Repair.txt,1
+Outcome,Pacemaker Implantation.txt,0
+Outcome,Thyroidectomy.txt,1
+Outcome,Prostatectomy.txt,0
+Outcome,Cesarean Section.txt,1
+Outcome,Gallbladder Removal.txt,1
+Outcome,Post-hysterectomy.txt,1
+Outcome,Cataract Surgery.txt,1
+Outcome,Appendectomy,.txt,1
+Outcome, Knee Replacement Surgery.txt,0
+Outcome, Heart Bypass Surgery.txt,0
+Recovery,Hipreplacement.txt,0
+Recovery,Spinal Infusion.txt,1
+Recovery,Breast Augmentation.txt,0
+Recovery,Coronary Stent Placement.txt,0
+Recovery,Gastric Bypass Surgery.txt,1
+Recovery,Liver Transplant.txt,0
+Recovery,ACL Reconstruction.txt,1
+Recovery,Spinal Fusion Surgery.txt,1
+Recovery,Mastectomy.txt,1
+Recovery,Hernia Repair.txt,0
+Recovery,Pacemaker Implantation.txt,1
+Recovery,Thyroidectomy.txt,0
+Recovery,Prostatectomy.txt,0
+Recovery,Cesarean Section.txt,1
+Recovery,Gallbladder Removal.txt,0
+Recovery,Post-hysterectomy.txt,0
+Recovery,Cataract Surgery.txt,0
+Recovery,Appendectomy,.txt,0
+Recovery, Knee Replacement Surgery.txt,1
+Recovery, Heart Bypass Surgery.txt,0
